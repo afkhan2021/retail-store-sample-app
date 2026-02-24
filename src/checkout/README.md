@@ -1,6 +1,6 @@
 # AWS Containers Retail Sample - Checkout Service
 
-<!-- GitOps Test: Commit -->
+<!-- GitOps Test: Multi-service deploy test - Order -->
 
 | Language | Persistence |
 | -------- | ----------- |
